@@ -1,7 +1,7 @@
 {
-  "name": "music-playlist-api",
+  "name": "shopping-list-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple shopping list REST API built with Node.js and TypeScript",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec ts-node src/server.ts",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SineMag/Music-Playlist-API.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SineMag/Music-Playlist-API/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/SineMag/Music-Playlist-API#readme",
+  "homepage": "",
   "dependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
